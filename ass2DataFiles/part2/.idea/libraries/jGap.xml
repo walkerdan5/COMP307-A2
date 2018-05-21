@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jGap">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../jgap_3.6.3_full.zip!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../jgap_3.6.3_full.zip!/examples/src" />
+      <root url="jar://$PROJECT_DIR$/../../../../jgap_3.6.3_full.zip!/examples/test" />
+      <root url="jar://$PROJECT_DIR$/../../../../jgap_3.6.3_full.zip!/src" />
+      <root url="jar://$PROJECT_DIR$/../../../../jgap_3.6.3_full.zip!/tests" />
+    </SOURCES>
+  </library>
+</component>

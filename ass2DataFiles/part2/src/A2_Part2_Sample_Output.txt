@@ -1,0 +1,50 @@
+Example output for part 2 (2x runs):
+
+clarks: [COMP307_A2] % java -jar A2_Part2.jar regression.txt
+log4j:WARN No appenders could be found for logger (org.jgap.gp.impl.GPGenotype).
+log4j:WARN Please initialize the log4j system properly.
+
+ Evolving program: 0 fitness: 60.429680000000005 memory free: 100.7
+
+
+ Evolving program: 25 fitness: 20.0000375 memory free: 110.5
+
+After 49 evolutions the program had a fitness of: 0.0                                                            
+Fitness Function: (4.0 / 4.0) + (((X * X) - X) * ((X * X) - X))   
+
+=================================================
+
+
+clarks: [COMP307_A2] % java -jar A2_Part2.jar regression.txt                                                     
+log4j:WARN No appenders could be found for logger (org.jgap.gp.impl.GPGenotype).                                 
+log4j:WARN Please initialize the log4j system properly.                                                          
+                                                                                                                 
+ Evolving program: 0 fitness: 71.58023271342975 memory free: 100.7                                               
+                                                                                                                 
+                                                                                                                 
+ Evolving program: 25 fitness: 40.170648721607094 memory free: 112.8
+
+
+ Evolving program: 50 fitness: 34.27528022368608 memory free: 216.0
+
+
+ Evolving program: 75 fitness: 34.27528022368608 memory free: 315.2
+
+
+ Evolving program: 100 fitness: 20.0000375 memory free: 420.1
+
+
+ Evolving program: 125 fitness: 20.0000375 memory free: 683.6
+
+
+ Evolving program: 150 fitness: 12.343772499999998 memory free: 292.1
+
+
+ Evolving program: 175 fitness: 12.343772499999998 memory free: 553.1
+
+
+ Evolving program: 200 fitness: 4.999962499999999 memory free: 161.3
+
+After 212 evolutions the program had a fitness of: 0.0
+Fitness Function: (((((X * X) - X) ^ 2.0) - X) + (5.0 / 5.0)) + X
+
